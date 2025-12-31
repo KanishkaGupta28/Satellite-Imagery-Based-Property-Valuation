@@ -146,14 +146,6 @@ The multimodal model outperformed the baseline, showing that **visual contextual
 
 ---
 
-## Future Improvements
-- Fine-tune CNN on domain-specific satellite image datasets  
-- Use higher-resolution image tiles  
-- Explore attention-based multimodal fusion techniques  
-- Integrate geospatial coordinates for better environmental context  
-
----
-
 ## Author
 **Kanishka Gupta**  
 This project was developed as part of a multimodal machine learning evaluation combining **computer vision** and **structured data** for real-estate analytics.
