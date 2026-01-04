@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+xgboost
+torch
+torchvision
+pillow
+matplotlib
+seaborn
+tqdm
+sentinelhub
+pytorch-grad-cam
+joblib
