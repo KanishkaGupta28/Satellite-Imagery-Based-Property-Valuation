@@ -21,7 +21,7 @@ Satellite-Imagery-Based-Property-Valuation/
 │   ├── train.csv
 │   └── test.csv
 │
-├── prediction.csv                   # Final price predictions
+├── 23118037_final.csv                   # Final price predictions
 ├── requirements.txt                 # Python dependencies
 └── README.md
 ```
@@ -167,4 +167,5 @@ This represents a ~7% reduction in RMSE and improved variance explanation when v
 **Kanishka Gupta**  
 This project was developed as part of a multimodal machine learning evaluation combining **computer vision** and **structured data** for real-estate analytics.
 ```
+
 
